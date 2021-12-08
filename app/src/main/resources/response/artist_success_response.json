@@ -1,0 +1,371 @@
+{
+  "created": "2021-12-08T18:01:19.407Z",
+  "count": 12,
+  "offset": 0,
+  "artists": [
+    {
+      "id": "4ec2451d-ed0c-4273-b683-4c1312df25fd",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 100,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan",
+      "sort-name": "Tarkan",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "bf6a9b45-2f7c-4a6a-bc7e-0c29a86f5985",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Alzey",
+        "sort-name": "Alzey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "isnis": [
+        "0000000078396229"
+      ],
+      "life-span": {
+        "begin": "1972-10-17",
+        "ended": null
+      },
+      "aliases": [
+        {
+          "sort-name": "Tevetoğlu, Tarkan",
+          "name": "Tarkan Tevetoğlu",
+          "locale": null,
+          "type": null,
+          "primary": null,
+          "begin-date": null,
+          "end-date": null
+        }
+      ],
+      "tags": [
+        {
+          "count": 2,
+          "name": "turkish"
+        },
+        {
+          "count": 2,
+          "name": "pop"
+        },
+        {
+          "count": 1,
+          "name": "aslı"
+        }
+      ]
+    },
+    {
+      "id": "a558ae40-f749-4ad4-a20e-15879a4bf14c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 78,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan Çakır",
+      "sort-name": "Çakır, Tarkan",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f9a822ff-adce-434c-9292-a8b6a0a37a8e",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "Istanbul",
+        "sort-name": "Istanbul",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "ipis": [
+        "00530171693"
+      ],
+      "life-span": {
+        "begin": "1971-02-08",
+        "ended": null
+      }
+    },
+    {
+      "id": "a6a70a9c-a17a-46cd-8a12-ba3fe69f1036",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "DJ Tarkan",
+      "sort-name": "Tarkan, DJ",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "98209b56-ef87-40d6-b58b-276e840b4008",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan Aslan",
+      "sort-name": "Tarkan Aslan",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "2001-10-18",
+        "ended": null
+      }
+    },
+    {
+      "id": "50c9a351-bce5-4c92-b2c5-a29623fa2a1c",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan Mumkale",
+      "sort-name": "Mumkale, Tarkan",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1968-10-29",
+        "ended": null
+      }
+    },
+    {
+      "id": "6ab29e1c-f8bf-4d13-98c8-f357a2e14658",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan Gözübüyük",
+      "sort-name": "Gözübüyük, Tarkan",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "begin": "1970-07-15",
+        "ended": null
+      }
+    },
+    {
+      "id": "111b6c19-917c-43cc-962d-10411047f6d8",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan Topyanak",
+      "sort-name": "Topyanak, Tarkan",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "93e863cb-0b4b-474a-a558-5eed76a5481f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan Bergamalı",
+      "sort-name": "Bergamalı, Tarkan",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "6cb0774a-f0bd-4d35-ade2-c771f9bdbc84",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 77,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tarkan Algin",
+      "sort-name": "Algin, Tarkan",
+      "gender": "male",
+      "area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "begin-area": {
+        "id": "f03d09b3-39dc-4083-afd6-159e3f0d462f",
+        "type": "City",
+        "type-id": "6fd8f29a-3d0a-32fc-980d-ea697b69da78",
+        "name": "London",
+        "sort-name": "London",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Guitarist in the London-based band The Dees",
+      "life-span": {
+        "begin": "1976-01-01",
+        "ended": null
+      }
+    },
+    {
+      "id": "1ef3d1e3-e935-4166-91ba-48d66e16493f",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 44,
+      "gender-id": "36d3d30a-839d-3eda-8cb3-29be4384e4a9",
+      "name": "Tex",
+      "sort-name": "Tex",
+      "gender": "male",
+      "country": "TR",
+      "area": {
+        "id": "d3be28b4-41f7-3752-8a05-ed45e1d1e492",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Turkey",
+        "sort-name": "Turkey",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "disambiguation": "Turkish rapper Tarkan Yaşar",
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "e35ae7bb-e482-4240-8d1c-602f7aa15907",
+      "type": "Group",
+      "type-id": "e431f5f6-b5d2-343d-8b36-72607fffb74b",
+      "score": 43,
+      "name": "Tárkány Művek",
+      "sort-name": "Tárkány Művek",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    },
+    {
+      "id": "989097b4-8a0b-47ea-93c3-90d7fd1d71a9",
+      "type": "Person",
+      "type-id": "b6e035f4-3ce9-331c-97df-83397230b0df",
+      "score": 42,
+      "gender-id": "93452b5a-a947-30c8-934f-6a4056b151c2",
+      "name": "Tárkányi Tamara",
+      "sort-name": "Tárkányi Tamara",
+      "gender": "female",
+      "country": "HU",
+      "area": {
+        "id": "312bc5bb-7e43-3e63-81c6-b4d712b37b2c",
+        "type": "Country",
+        "type-id": "06dd0ae4-8c74-30bb-b43d-95dcedf961de",
+        "name": "Hungary",
+        "sort-name": "Hungary",
+        "life-span": {
+          "ended": null
+        }
+      },
+      "life-span": {
+        "ended": null
+      }
+    }
+  ]
+}

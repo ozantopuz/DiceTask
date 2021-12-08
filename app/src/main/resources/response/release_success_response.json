@@ -1,0 +1,268 @@
+{
+  "release-groups": [
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [
+        "0c60f497-ff81-3818-befd-abfc84a4858b"
+      ],
+      "first-release-date": "2008-07-28",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Metamorfoz Remixes",
+      "secondary-types": [
+        "Remix"
+      ],
+      "id": "035a991a-ef46-499e-9342-8e53b53bbe6a"
+    },
+    {
+      "primary-type": "Album",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2003-12",
+      "disambiguation": "",
+      "id": "09ca11fb-e180-3734-b082-b1e2f24a38d8",
+      "secondary-types": [ ],
+      "title": "Dudu",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2001-08",
+      "disambiguation": "",
+      "id": "13657f74-1ee6-3df0-bfa0-8e42fe87d785",
+      "secondary-types": [ ],
+      "title": "Karma",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "disambiguation": "",
+      "first-release-date": "1992-12-21",
+      "secondary-type-ids": [ ],
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Yine Sensiz...",
+      "secondary-types": [ ],
+      "id": "15266c5e-6b4e-3990-9f40-217bd1101c15"
+    },
+    {
+      "secondary-types": [ ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Bounce",
+      "id": "184c27fa-db55-3355-955e-9e06282ac668",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2005-10",
+      "disambiguation": "",
+      "primary-type": "Single"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2010-08-29",
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Adımı Kalbine Yaz",
+      "secondary-types": [ ],
+      "id": "1d3ef442-fa1b-4699-a9f2-57740d4bfc43"
+    },
+    {
+      "id": "1ee11408-b0a8-4325-ba18-ad930a2d7912",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Her Şey Fani (Mahmut Orhan Remix)",
+      "secondary-types": [ ],
+      "primary-type": "Single",
+      "disambiguation": "",
+      "first-release-date": "2018-04-03",
+      "secondary-type-ids": [ ]
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2001",
+      "primary-type": "Single",
+      "title": "Kuzu Kuzu",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [ ],
+      "id": "27cd6682-4d35-3f2e-adec-0a2b3a97697d"
+    },
+    {
+      "first-release-date": "1999",
+      "secondary-type-ids": [ ],
+      "disambiguation": "",
+      "primary-type": "Single",
+      "secondary-types": [ ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Bu Gece (Kır Zincirlerini)",
+      "id": "2fc563b7-b158-351a-a769-e1f6e91070fa"
+    },
+    {
+      "disambiguation": "",
+      "first-release-date": "2002",
+      "secondary-type-ids": [ ],
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Hüp",
+      "secondary-types": [ ],
+      "id": "3eb2c17c-2b61-3f90-a7a5-be44aeafa4d8"
+    },
+    {
+      "primary-type": "Album",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2016-03-11",
+      "disambiguation": "",
+      "id": "4033ff97-5afa-4562-9e68-ac45cf39849b",
+      "secondary-types": [ ],
+      "title": "Ahde Vefa",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2017-06-15",
+      "secondary-type-ids": [ ],
+      "id": "6628e0d8-35dd-4b3b-8890-c26d9bb9d171",
+      "title": "10",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [ ]
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [ ],
+      "first-release-date": "1999-06-28",
+      "primary-type": "Single",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Şıkıdım (Hepsi Senin Mi ?)",
+      "secondary-types": [ ],
+      "id": "6b1c71bc-7736-4db4-a295-03c4535e44bb"
+    },
+    {
+      "id": "7a995c2e-39b5-3201-be2d-ddd8fa60830e",
+      "secondary-types": [ ],
+      "title": "Şıkıdım (Hepsi Senin mi?)",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "primary-type": "Single",
+      "secondary-type-ids": [ ],
+      "first-release-date": "1995",
+      "disambiguation": ""
+    },
+    {
+      "title": "Come Closer",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [ ],
+      "id": "8c4067dd-b56f-3caa-9c12-7eba9c47c1a2",
+      "disambiguation": "",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2006-04-07",
+      "primary-type": "Album"
+    },
+    {
+      "disambiguation": "",
+      "first-release-date": "1998",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "primary-type": "Album",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Tarkan",
+      "secondary-types": [
+        "Compilation"
+      ],
+      "id": "90c58ee1-e8d0-33f4-9342-06c02f3909ab"
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [ ],
+      "first-release-date": "1997-07",
+      "primary-type": "Album",
+      "title": "Ölürüm Sana",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [ ],
+      "id": "92537e95-3f76-3465-b97c-1d67ac3e9fca"
+    },
+    {
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "1994-04-28",
+      "secondary-type-ids": [ ],
+      "id": "9f5be094-776b-396f-8d79-918441d8fe0c",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Aacayipsin",
+      "secondary-types": [ ]
+    },
+    {
+      "secondary-types": [
+        "Compilation"
+      ],
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "title": "Tarkan Best Of The Tarkan 2011 Albümü Şarkıları",
+      "id": "b2e56149-8693-4ab6-8b9a-2e882ddb3883",
+      "first-release-date": "2011",
+      "secondary-type-ids": [
+        "dd2a21e1-0c00-3729-a7a0-de60b84eb5d1"
+      ],
+      "disambiguation": "",
+      "primary-type": "Album"
+    },
+    {
+      "primary-type": "Single",
+      "first-release-date": "1998",
+      "secondary-type-ids": [ ],
+      "disambiguation": "",
+      "id": "b8b65176-864c-4fec-921a-8f11e3d01007",
+      "secondary-types": [ ],
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "title": "Şımarık"
+    },
+    {
+      "secondary-type-ids": [ ],
+      "first-release-date": "2016-07-14",
+      "disambiguation": "",
+      "primary-type": "Single",
+      "secondary-types": [ ],
+      "title": "Cuppa",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "id": "cdbc978d-9c55-4475-8834-71789db0f6af"
+    },
+    {
+      "primary-type": "Single",
+      "disambiguation": "",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2002",
+      "id": "d4777ccd-69cc-37a6-a23b-98499c6f0d15",
+      "title": "Bir Oluruz Yolunda",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [ ]
+    },
+    {
+      "id": "d653d125-819d-33df-8257-96927717fcf7",
+      "title": "Metamorfoz",
+      "primary-type-id": "f529b476-6e62-324f-b0aa-1f3e33d313fc",
+      "secondary-types": [ ],
+      "primary-type": "Album",
+      "disambiguation": "",
+      "first-release-date": "2007-12-26",
+      "secondary-type-ids": [ ]
+    },
+    {
+      "disambiguation": "",
+      "secondary-type-ids": [ ],
+      "first-release-date": "2006-09",
+      "primary-type": "Single",
+      "title": "Start the Fire",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [ ],
+      "id": "d6b83eba-832e-34cb-a0e0-051ae4f64e5e"
+    },
+    {
+      "id": "f2ab0041-9bdf-42bc-8959-6b8e6c923a27",
+      "title": "Ayrılık Zor",
+      "primary-type-id": "d6038452-8ee0-3f68-affc-2de9a1ede0b9",
+      "secondary-types": [ ],
+      "primary-type": "Single",
+      "disambiguation": "",
+      "first-release-date": "2005-05",
+      "secondary-type-ids": [ ]
+    }
+  ],
+  "release-group-offset": 0,
+  "release-group-count": 29
+}
